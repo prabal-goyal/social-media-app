@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          ChatSack
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween

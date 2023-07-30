@@ -138,7 +138,7 @@ const UserWidget = ({ userId, picturePath }) => {
               <Typography color={main} fontWeight="500">
                 Linkedin
               </Typography>
-              <Typography color={medium}>Network Platform</Typography>
+              <Typography color={medium}>https://www.linkedin.com/in/prabal-goyal-a0a41a210/</Typography>
             </Box>
           </FlexBetween>
           <EditOutlined sx={{ color: main }} />
